@@ -112,7 +112,7 @@ const Friends = () => {
 
   if (error) {
     return (
-      <div className="py-20 text-center">
+      <div className="bg-[#F8FAFC] py-20 text-center">
         <div className="inline-flex flex-col items-center gap-3 p-8 bg-rose-50 rounded-2xl border border-rose-200">
           <span className="text-4xl">😕</span>
           <p className="text-rose-700 font-medium">Failed to load friends</p>
@@ -123,7 +123,7 @@ const Friends = () => {
   }
 
   return (
-    <div className="py-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+    <div className="bg-[#F8FAFC] py-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
       {/* ================= Summary Banner ================= */}
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
         <StatCard
