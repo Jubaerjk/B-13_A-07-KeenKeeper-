@@ -1,0 +1,350 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "sarah.johnson@example.com",
+    "days_since_contact": 12,
+    "status": "overdue",
+    "tags": ["college friend"],
+    "bio": "University friend, great mentor",
+    "goal": 14,
+    "next_due_date": "2026-07-04",
+    "preferred_contact_method": "call",
+    "interactions": [
+      {
+        "id": 1,
+        "type": "call",
+        "date": "2026-07-04",
+        "note": "Talked about weekend hiking plans."
+      },
+      {
+        "id": 2,
+        "type": "text",
+        "date": "2026-07-02",
+        "note": "Shared photos from the hiking trip."
+      },
+      {
+        "id": 3,
+        "type": "instagram",
+        "date": "2026-06-28",
+        "note": "Sent an Instagram post about a hiking trail."
+      },
+      {
+        "id": 4,
+        "type": "email",
+        "date": "2026-06-20",
+        "note": "Sent details about the weekend road trip."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "michael.chen@example.com",
+    "days_since_contact": 3,
+    "status": "need attention",
+    "tags": ["work mentor"],
+    "bio": "Work mentor, career advice",
+    "goal": 14,
+    "next_due_date": "2026-07-13",
+    "preferred_contact_method": "video",
+    "interactions": [
+      {
+        "id": 1,
+        "type": "call",
+        "date": "2026-07-04",
+        "note": "Discussed career goals and development plans."
+      },
+      {
+        "id": 2,
+        "type": "video",
+        "date": "2026-07-01",
+        "note": "Had a video call about a coding project."
+      },
+      {
+        "id": 3,
+        "type": "email",
+        "date": "2026-06-28",
+        "note": "Sent a programming resource."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Emma Rodriguez",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "emma.rodriguez@example.com",
+    "days_since_contact": 21,
+    "status": "overdue",
+    "tags": ["gym buddy"],
+    "bio": "Gym buddy, fitness motivator",
+    "goal": 14,
+    "next_due_date": "2026-06-25",
+    "preferred_contact_method": "text",
+    "interactions": [
+      {
+        "id": 1,
+        "type": "call",
+        "date": "2026-06-25",
+        "note": "Discussed our workout schedule."
+      },
+      {
+        "id": 2,
+        "type": "text",
+        "date": "2026-06-20",
+        "note": "Checked in about gym plans."
+      },
+      {
+        "id": 3,
+        "type": "instagram",
+        "date": "2026-06-15",
+        "note": "Shared a fitness reel."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "email": "david.wilson@example.com",
+    "days_since_contact": 7,
+    "status": "on_track",
+    "tags": ["neighbor"],
+    "bio": "Neighbor, coffee conversations",
+    "goal": 14,
+    "next_due_date": "2026-07-09",
+    "preferred_contact_method": "email",
+    "interactions": [
+      {
+        "id": 1,
+        "type": "text",
+        "date": "2026-07-02",
+        "note": "Made plans for weekend coffee."
+      },
+      {
+        "id": 2,
+        "type": "call",
+        "date": "2026-06-28",
+        "note": "Discussed neighborhood activities."
+      },
+      {
+        "id": 3,
+        "type": "instagram",
+        "date": "2026-06-22",
+        "note": "Shared a local coffee shop."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Priya Patel",
+    "picture": "https://randomuser.me/api/portraits/women/22.jpg",
+    "email": "priya.patel@example.com",
+    "days_since_contact": 1,
+    "status": "recent",
+    "tags": ["travel partner"],
+    "bio": "Travel partner, culture explorer",
+    "goal": 14,
+    "next_due_date": "2026-07-15",
+    "preferred_contact_method": "video",
+    "interactions": [
+      {
+        "id": 1,
+        "type": "video",
+        "date": "2026-07-14",
+        "note": "Planned our next travel destination."
+      },
+      {
+        "id": 2,
+        "type": "text",
+        "date": "2026-07-12",
+        "note": "Shared travel recommendations."
+      },
+      {
+        "id": 3,
+        "type": "email",
+        "date": "2026-07-10",
+        "note": "Sent hotel and flight information."
+      },
+      {
+        "id": 4,
+        "type": "instagram",
+        "date": "2026-07-08",
+        "note": "Shared a travel destination post."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "James Anderson",
+    "picture": "https://randomuser.me/api/portraits/men/41.jpg",
+    "email": "james.anderson@example.com",
+    "days_since_contact": 18,
+    "status": "need attention",
+    "tags": ["gaming friend"],
+    "bio": "Gaming friend, school days",
+    "goal": 14,
+    "next_due_date": "2026-06-28",
+    "preferred_contact_method": "email",
+    "interactions": [
+      {
+        "id": 1,
+        "type": "call",
+        "date": "2026-06-28",
+        "note": "Talked about our next gaming session."
+      },
+      {
+        "id": 2,
+        "type": "text",
+        "date": "2026-06-24",
+        "note": "Discussed a new game release."
+      },
+      {
+        "id": 3,
+        "type": "video",
+        "date": "2026-06-20",
+        "note": "Played games together on a video call."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Olivia Martinez",
+    "picture": "https://randomuser.me/api/portraits/women/55.jpg",
+    "email": "olivia.martinez@example.com",
+    "days_since_contact": 5,
+    "status": "on_track",
+    "tags": ["music club"],
+    "bio": "Music club, concert lover",
+    "goal": 10,
+    "next_due_date": "2026-07-10",
+    "preferred_contact_method": "call",
+    "interactions": [
+      {
+        "id": 1,
+        "type": "instagram",
+        "date": "2026-07-09",
+        "note": "Shared a concert announcement."
+      },
+      {
+        "id": 2,
+        "type": "text",
+        "date": "2026-07-07",
+        "note": "Discussed an upcoming music event."
+      },
+      {
+        "id": 3,
+        "type": "email",
+        "date": "2026-07-05",
+        "note": "Sent event details."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Daniel Brown",
+    "picture": "https://randomuser.me/api/portraits/men/18.jpg",
+    "email": "daniel.brown@example.com",
+    "days_since_contact": 30,
+    "status": "overdue",
+    "tags": ["school friend"],
+    "bio": "School friend, reconnect often",
+    "goal": 30,
+    "next_due_date": "2026-06-22",
+    "preferred_contact_method": "text",
+    "interactions": [
+      {
+        "id": 1,
+        "type": "call",
+        "date": "2026-06-22",
+        "note": "Caught up about old school memories."
+      },
+      {
+        "id": 2,
+        "type": "email",
+        "date": "2026-06-15",
+        "note": "Sent an update about life and work."
+      },
+      {
+        "id": 3,
+        "type": "text",
+        "date": "2026-06-10",
+        "note": "Checked in after a long time."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Sophia Lee",
+    "picture": "https://randomuser.me/api/portraits/women/90.jpg",
+    "email": "sophia.lee@example.com",
+    "days_since_contact": 2,
+    "status": "recent",
+    "tags": ["developer"],
+    "bio": "Developer friend, discussing new technologies.",
+    "goal": 14,
+    "next_due_date": "2026-07-14",
+    "preferred_contact_method": "video",
+    "interactions": [
+      {
+        "id": 1,
+        "type": "video",
+        "date": "2026-07-13",
+        "note": "Discussed new AI and web development tools."
+      },
+      {
+        "id": 2,
+        "type": "text",
+        "date": "2026-07-12",
+        "note": "Shared a Next.js article."
+      },
+      {
+        "id": 3,
+        "type": "email",
+        "date": "2026-07-10",
+        "note": "Sent a useful developer resource."
+      },
+      {
+        "id": 4,
+        "type": "instagram",
+        "date": "2026-07-08",
+        "note": "Shared a technology post."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Robert Taylor",
+    "picture": "https://randomuser.me/api/portraits/men/61.jpg",
+    "email": "robert.taylor@example.com",
+    "days_since_contact": 16,
+    "status": "overdue",
+    "tags": ["football"],
+    "bio": "Sports buddy, watch matches together.",
+    "goal": 14,
+    "next_due_date": "2026-06-30",
+    "preferred_contact_method": "instagram",
+    "interactions": [
+      {
+        "id": 1,
+        "type": "call",
+        "date": "2026-06-30",
+        "note": "Discussed the upcoming football match."
+      },
+      {
+        "id": 2,
+        "type": "text",
+        "date": "2026-06-27",
+        "note": "Talked about weekend football."
+      },
+      {
+        "id": 3,
+        "type": "instagram",
+        "date": "2026-06-25",
+        "note": "Shared a football highlight."
+      }
+    ]
+  }
+]
